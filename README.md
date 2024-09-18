@@ -8,11 +8,11 @@ I hope you find me interesting, and that I can be of help 🤞.
 
 ### Languages and Tools 📚
 
-HTML5
-Css3
-Git
-Github
-JavaScript
+![HTML5](svg-icons/icon-html-5.svg)
+![Css3](svg-icons/icon-css3.svg)
+![Git](svg-icons/icon-git.svg)
+![Github](svg-icons/icon-github.svg)
+![JavaScript](svg-icons/icon-js.svg)
 
 Due to personal preferences, I’m sharing the following phrase to consider when choosing the programming languages you want to dedicate yourself to.
 
@@ -29,10 +29,14 @@ gif
 
 gif
 
-Linkedin
-Instagram
-Twitter X
-Facebook
+[![Personal Linkedin](svg-icons/dark-linkedin.svg)](www.linkedin.com/in/lautaro-rivieri#gh-dark-mode-only)
+[![Personal Linkedin](svg-icons/light-linkedin.svg)](www.linkedin.com/in/lautaro-rivieri#gh-light-mode-only)
+[![Personal Instagram](svg-icons/dark-instagram.svg)](www.instagram.com/lautaro_rivieri#gh-dark-mode-only)
+[![Personal Instagram](svg-icons/light-instagram.svg)](www.instagram.com/lautaro_rivieri#gh-light-mode-only)
+[![Personal Twitter X](svg-icons/dark-twitterx.svg)](x.com/MorochoBipolar#gh-dark-mode-only)
+[![Personal Twitter X](svg-icons/light-twitterx.svg)](x.com/MorochoBipolar#gh-light-mode-only)
+[![Personal Facebook](svg-icons/dark-facebook.svg)](www.facebook.com/rivierilautaro#gh-dark-mode-only)
+[![Personal Facebook](svg-icons/light-facebook.svg)](www.facebook.com/rivierilautaro#gh-light-mode-only)
 
 Thank you for taking the time to read this... I hope you like me! 😉
 
